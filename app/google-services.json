@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129267139651",
+    "project_id": "logistory-b2a18",
+    "storage_bucket": "logistory-b2a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129267139651:android:8122cb9fec4d382be380f6",
+        "android_client_info": {
+          "package_name": "com.abdulkadiraktar.logistory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfTeuu_HHbWA5H-TEk03J00cx6QGYg_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
