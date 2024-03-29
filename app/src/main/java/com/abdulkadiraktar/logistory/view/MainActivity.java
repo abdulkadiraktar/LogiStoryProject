@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         if(email.equals("") || password.equals("")){ //mail adresi veya parola girilmezse program çökmemesi için uyarı mesajı
             Toast.makeText(this,"E-mail ve parolanızı giriniz!",Toast.LENGTH_LONG).show();
         }
-        else {
+        else  {
 
             auth.createUserWithEmailAndPassword(email,password).addOnSuccessListener(new OnSuccessListener<AuthResult>() {
                 @Override
